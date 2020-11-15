@@ -1,5 +1,9 @@
-### Hi there 👋
-🔭 I’m currently working on building my own portfolio website!
+### Current project:
+The Odin Project: Javascript Path
+### Next project:
+🔭 My portfolio website
+
+
 <!--
 **pillemer/pillemer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
